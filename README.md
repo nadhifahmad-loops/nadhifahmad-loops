@@ -55,6 +55,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/nadhifahmad-loops/nadhifahmad-loops/output/snake.svg" alt="Snake animation" />
-
-###
